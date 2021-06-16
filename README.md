@@ -1,2 +1,2 @@
 # Suit-GunBaKer
-Suit Gunting Batu Kertas
+Suit Gunting - Batu - Kertas
